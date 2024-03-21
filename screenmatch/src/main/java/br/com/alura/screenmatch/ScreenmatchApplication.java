@@ -16,7 +16,7 @@ public class ScreenmatchApplication implements CommandLineRunner {
 
 	}
 
-	// metodo run como se fosse o metodo main para executar
+	// metodo run como se fosse o metodo main para exec
 	@Override
 	public void run(String... args) throws Exception {
 
